@@ -22,6 +22,3 @@
   <img src="https://komarev.com/ghpvc/?username=DiegoAraujoCloud" alt="https://github.com/DiegoAraujoCloud"></a>
   <a href="https://github.com/DiegoAraujoCloud?tab=followers" target="_blank">
      <img src="https://img.shields.io/github/followers/DiegoAraujoCloud?label=Followers&style=social" alt="Github Badge"></a>
-  
-  
-![Snake animation](https://github.com/DiegoAraujoCloud/DiegoAraujoCloud/blob/output/github-contribution-grid-snake.svg)
