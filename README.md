@@ -12,10 +12,16 @@
 </div>
   <img align="center" alt="Azure"      height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Git"        height="30"  width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Python"     width="40px"            src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img align="center" alt="Linux"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Python"     height="30"  width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+  <img align="center" alt="Linux"      height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
    ##
   
+### Views and Followers:
+  <img src="https://komarev.com/ghpvc/?username=DiegoAraujoCloud" alt="https://github.com/DiegoAraujoCloud"></a>
+  <a href="https://github.com/DiegoAraujoCloud?tab=followers" target="_blank">
+     <img src="https://img.shields.io/github/followers/DiegoAraujoCloud?label=Followers&style=social" alt="Github Badge"></a>
   
+  
+![Snake animation](https://github.com/DiegoAraujoCloud/DiegoAraujoCloud/blob/output/github-contribution-grid-snake.svg)
