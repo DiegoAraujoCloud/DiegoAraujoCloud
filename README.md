@@ -1,9 +1,8 @@
 ### Olá! Eu sou Diego Araujo 👋
 
- - 🔭 Atualmente estou trabalhando com Microsoft Azure
- - 🌱 Atualment estou estudando Python
- - 👨‍💻 Contate-me no email: diegoa.s@hotmail.com
- - 😄 Pronomes: Ele/ Dele
+ - 🔭 I am currently working with Microsoft Azure
+ - 🌱 I'm currently studying Python🐍
+ - 😄 Pronouns: He/Him
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
