@@ -1,6 +1,6 @@
-### Olá! Eu sou Diego Araujo 👋
+### Hi! I'm Diego Araujo 👋
 
- - 🔭 I am currently working with Microsoft Azure
+ - 🔭 I'm currently working with Microsoft Azure
  - 🌱 I'm currently studying Python🐍
  - 😄 Pronouns: He/Him
 
