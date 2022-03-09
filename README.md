@@ -43,6 +43,14 @@
 - [
 Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06EA9949455A11C90814188C9DB74B6114CA435BD0B584C4B07AF5DEF9664F0B) 
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="left">
+&nbsp; <a href="https://www.linkedin.com/in/diegoaraujosantos90/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:diegoa.s@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+
 ### Views and Followers:
   <img src="https://komarev.com/ghpvc/?username=DiegoAraujoCloud" alt="https://github.com/DiegoAraujoCloud"></a>
   <a href="https://github.com/DiegoAraujoCloud?tab=followers" target="_blank">
