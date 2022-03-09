@@ -1,4 +1,4 @@
-### Hi! I'm Diego Araujo 👋
+### Hello!! I'm Diego Araujo 👋
 
  - 🔭 I'm currently working with Microsoft Azure
  - 🌱 I'm currently studying Python🐍
