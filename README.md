@@ -5,7 +5,7 @@
  - 👨‍💻 Contate-me no email: diegoa.s@hotmail.com
  - 😄 Pronomes: Ele/ Dele
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ### Programming Languages 🌐
 
@@ -33,11 +33,15 @@
 
 ### My Certifications ✔
 
-- [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/72175828-72a9-42f9-992a-518342a13d5c
-)
+- [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/72175828-72a9-42f9-992a-518342a13d5c)
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.credly.com/badges/2b4b7fda-0b45-4ad8-ba7b-5cdcfd28d64b)
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/601f6bee-f2f3-47dc-9f31-b051626675f8) 
-
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/b89dea5b-68e0-4b7a-91e9-15df357bdcc4) 
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/e3120fcc-7e79-45b0-afd6-3329ded39916) 
+- [Microsoft Certified Trainer 2021-2022](https://www.credly.com/badges/601f6bee-f2f3-47dc-9f31-b051626675f8) 
+- [GitLab Certified Associate](https://gitlab.badgr.com/public/assertions/y3wOSwNlRaG4dhtcFTGpZA?identity__email=diegoa.s@hotmail.com) 
+- [
+Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06EA9949455A11C90814188C9DB74B6114CA435BD0B584C4B07AF5DEF9664F0B) 
 
 ### Views and Followers:
   <img src="https://komarev.com/ghpvc/?username=DiegoAraujoCloud" alt="https://github.com/DiegoAraujoCloud"></a>
