@@ -10,8 +10,8 @@
 
 - Know/Using
 
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="35" > |
-|---|
+| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="35" > | <img src="https://user-images.githubusercontent.com/77396090/157449746-d2633cca-349e-481a-88d8-39b7cfa76455.png" alt="POwerShell logo" width="35" > |
+|---|---|
 
 - Learning
 
