@@ -27,20 +27,23 @@
 
 - Learning
 
-| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="35" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="35"/> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="35"> | <img align="center" alt="Terraform"  width="35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> 
-|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="35" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="35"/> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="35"> | <img align="center" alt="Terraform"  width="35px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> |
+|---|---|---|---|
 
 ### My Certifications ✔
 
+- [AWS Certified Security – Specialty](https://www.credly.com/badges/9d721698-e6b7-4f46-9ba0-517cbf4c06d1)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7c7e27fe-9927-4fd6-8af8-6196f973ced5)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/72175828-72a9-42f9-992a-518342a13d5c)
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.credly.com/badges/2b4b7fda-0b45-4ad8-ba7b-5cdcfd28d64b)
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/601f6bee-f2f3-47dc-9f31-b051626675f8) 
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/b89dea5b-68e0-4b7a-91e9-15df357bdcc4) 
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/b89dea5b-68e0-4b7a-91e9-15df357bdcc4)
+- [Microsoft Certified: Identity and Access Administrator Associate](https://www.credly.com/badges/fdf3f9f3-7894-4fe1-84cf-6e5e443d9ceb)
+- [Microsoft Certified: Security Operations Analyst Associate](https://www.credly.com/badges/fdf3f9f3-7894-4fe1-84cf-6e5e443d9ceb)
 - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/e3120fcc-7e79-45b0-afd6-3329ded39916) 
-- [Microsoft Certified Trainer 2021-2022](https://www.credly.com/badges/601f6bee-f2f3-47dc-9f31-b051626675f8) 
+- [Microsoft Certified Trainer 2021-2022-2023](https://www.credly.com/badges/601f6bee-f2f3-47dc-9f31-b051626675f8) 
 - [GitLab Certified Associate](https://gitlab.badgr.com/public/assertions/y3wOSwNlRaG4dhtcFTGpZA?identity__email=diegoa.s@hotmail.com) 
-- [
-Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06EA9949455A11C90814188C9DB74B6114CA435BD0B584C4B07AF5DEF9664F0B) 
+- [Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06EA9949455A11C90814188C9DB74B6114CA435BD0B584C4B07AF5DEF9664F0B) 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
